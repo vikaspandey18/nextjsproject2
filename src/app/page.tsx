@@ -53,6 +53,7 @@ export default function Home() {
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <Link href="/about">Go To About Page</Link>
         <Link href="/services">Go To Service Page</Link>
+        <Link href="/contact">Go To Contact Us Page</Link>
       </footer>
     </div>
   );
